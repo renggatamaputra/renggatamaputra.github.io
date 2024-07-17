@@ -123,6 +123,10 @@ h2 {
   overflow: hidden;
 }
 
+.pp{
+	top: +30%;
+}
+
 .layer { position: absolute; }
 
 .layer div {
